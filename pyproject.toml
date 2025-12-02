@@ -1,7 +1,7 @@
 [project]
-name = "learn-media-fastapi"
+name = "demo-media-fastapi"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project is a demo of a media server using FastAPI."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
